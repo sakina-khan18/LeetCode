@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Binary Search
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
