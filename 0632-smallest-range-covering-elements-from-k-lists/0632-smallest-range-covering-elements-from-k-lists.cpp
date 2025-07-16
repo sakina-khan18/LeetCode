@@ -31,12 +31,7 @@ public:
                     start=v[l].first;
                     end=v[r].first;
                 }
-                if(v[r].first-v[l].first==ans&&v[l].first<start)
-                {
-                    start=v[l].first;
-                    
-                }
-                
+             
                    m[v[l].second]--;
                 if(m[v[l].second]==0)
                 m.erase(v[l].second);
