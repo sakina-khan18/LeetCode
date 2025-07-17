@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sakina-khan18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sakina-khan18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/sakina-khan18/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakina-khan18/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sakina-khan18/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
