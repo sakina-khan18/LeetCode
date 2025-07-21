@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sakina-khan18/LeetCode/tree/master/0518-coin-change-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakina-khan18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sakina-khan18/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -62,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/sakina-khan18/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/sakina-khan18/LeetCode/tree/master/3396-valid-word) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
