@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakina-khan18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/sakina-khan18/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sakina-khan18/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sakina-khan18/LeetCode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakina-khan18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/sakina-khan18/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Binary Search
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/sakina-khan18/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
