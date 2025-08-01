@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sakina-khan18/LeetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/sakina-khan18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sakina-khan18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/sakina-khan18/LeetCode/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/sakina-khan18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
