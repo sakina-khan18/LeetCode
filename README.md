@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sakina-khan18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sakina-khan18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/sakina-khan18/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/sakina-khan18/LeetCode/tree/master/0118-pascals-triangle) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sakina-khan18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/sakina-khan18/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0583-delete-operation-for-two-strings](https://github.com/sakina-khan18/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sakina-khan18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/sakina-khan18/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Brainteaser
 |  |
