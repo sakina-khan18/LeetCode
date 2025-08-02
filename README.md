@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sakina-khan18/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/sakina-khan18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sakina-khan18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakina-khan18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sakina-khan18/LeetCode/tree/master/0015-3sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakina-khan18/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Heap (Priority Queue)
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakina-khan18/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/sakina-khan18/LeetCode/tree/master/0015-3sum) |
 | [0647-palindromic-substrings](https://github.com/sakina-khan18/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Brainteaser
 |  |
