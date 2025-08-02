@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sakina-khan18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakina-khan18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
+| [0238-product-of-array-except-self](https://github.com/sakina-khan18/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sakina-khan18/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sakina-khan18/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
