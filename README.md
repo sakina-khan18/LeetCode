@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakina-khan18/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sakina-khan18/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sakina-khan18/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3790-fruits-into-baskets-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [3790-fruits-into-baskets-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sakina-khan18/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
