@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3881-minimize-maximum-component-cost](https://github.com/sakina-khan18/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sakina-khan18/LeetCode/tree/master/0015-3sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakina-khan18/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3881-minimize-maximum-component-cost](https://github.com/sakina-khan18/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Union Find
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/sakina-khan18/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
+## Graph
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/sakina-khan18/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
 <!---LeetCode Topics End-->
