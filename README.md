@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakina-khan18/LeetCode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/sakina-khan18/LeetCode/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakina-khan18/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sakina-khan18/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakina-khan18/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sakina-khan18/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sakina-khan18/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakina-khan18/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
