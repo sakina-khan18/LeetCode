@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sakina-khan18/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sakina-khan18/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakina-khan18/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/sakina-khan18/LeetCode/tree/master/1448-maximum-69-number) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sakina-khan18/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakina-khan18/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sakina-khan18/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakina-khan18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1448-maximum-69-number](https://github.com/sakina-khan18/LeetCode/tree/master/1448-maximum-69-number) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sakina-khan18/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Sliding Window
 |  |
