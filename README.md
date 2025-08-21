@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sakina-khan18/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakina-khan18/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakina-khan18/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakina-khan18/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sakina-khan18/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sakina-khan18/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sakina-khan18/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakina-khan18/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sakina-khan18/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Shortest Path
 |  |
 | ------- |
