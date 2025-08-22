@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sakina-khan18/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/sakina-khan18/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sakina-khan18/LeetCode/tree/master/0518-coin-change-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/sakina-khan18/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sakina-khan18/LeetCode/tree/master/0518-coin-change-ii) |
