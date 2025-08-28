@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakina-khan18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakina-khan18/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/sakina-khan18/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakina-khan18/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakina-khan18/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sakina-khan18/LeetCode/tree/master/0015-3sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1253-sort-the-matrix-diagonally](https://github.com/sakina-khan18/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakina-khan18/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sakina-khan18/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sakina-khan18/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakina-khan18/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/sakina-khan18/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sakina-khan18/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sakina-khan18/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sakina-khan18/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
