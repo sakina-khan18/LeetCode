@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sakina-khan18/LeetCode/tree/master/0518-coin-change-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakina-khan18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1006-vowel-spellchecker](https://github.com/sakina-khan18/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakina-khan18/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sakina-khan18/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1006-vowel-spellchecker](https://github.com/sakina-khan18/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [3210-count-beautiful-substrings-i](https://github.com/sakina-khan18/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sakina-khan18/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0583-delete-operation-for-two-strings](https://github.com/sakina-khan18/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/sakina-khan18/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1006-vowel-spellchecker](https://github.com/sakina-khan18/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sakina-khan18/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
