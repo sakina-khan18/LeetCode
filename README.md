@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1006-vowel-spellchecker](https://github.com/sakina-khan18/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sakina-khan18/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3210-count-beautiful-substrings-i](https://github.com/sakina-khan18/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sakina-khan18/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/sakina-khan18/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1006-vowel-spellchecker](https://github.com/sakina-khan18/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sakina-khan18/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sakina-khan18/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sakina-khan18/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
