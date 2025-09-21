@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1006-vowel-spellchecker](https://github.com/sakina-khan18/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1249-snapshot-array](https://github.com/sakina-khan18/LeetCode/tree/master/1249-snapshot-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sakina-khan18/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3210-count-beautiful-substrings-i](https://github.com/sakina-khan18/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/sakina-khan18/LeetCode/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sakina-khan18/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakina-khan18/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sakina-khan18/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sakina-khan18/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sakina-khan18/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Greedy
 |  |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sakina-khan18/LeetCode/tree/master/0015-3sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1253-sort-the-matrix-diagonally](https://github.com/sakina-khan18/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sakina-khan18/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sakina-khan18/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
