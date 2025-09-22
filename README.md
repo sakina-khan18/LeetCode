@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sakina-khan18/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/sakina-khan18/LeetCode/tree/master/0342-power-of-four) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sakina-khan18/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sakina-khan18/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sakina-khan18/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1249-snapshot-array](https://github.com/sakina-khan18/LeetCode/tree/master/1249-snapshot-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sakina-khan18/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakina-khan18/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/sakina-khan18/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakina-khan18/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakina-khan18/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/sakina-khan18/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
