@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sakina-khan18/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0606-construct-string-from-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sakina-khan18/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sakina-khan18/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sakina-khan18/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0606-construct-string-from-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sakina-khan18/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sakina-khan18/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sakina-khan18/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sakina-khan18/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Segment Tree
 |  |
 | ------- |
