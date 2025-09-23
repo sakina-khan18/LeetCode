@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1249-snapshot-array](https://github.com/sakina-khan18/LeetCode/tree/master/1249-snapshot-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sakina-khan18/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sakina-khan18/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3210-count-beautiful-substrings-i](https://github.com/sakina-khan18/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sakina-khan18/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sakina-khan18/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakina-khan18/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sakina-khan18/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sakina-khan18/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Tree
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sakina-khan18/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2384-root-equals-sum-of-children](https://github.com/sakina-khan18/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sakina-khan18/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sakina-khan18/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sakina-khan18/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sakina-khan18/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sakina-khan18/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sakina-khan18/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
