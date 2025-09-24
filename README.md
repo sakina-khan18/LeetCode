@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sakina-khan18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sakina-khan18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sakina-khan18/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sakina-khan18/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sakina-khan18/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/sakina-khan18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakina-khan18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakina-khan18/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/sakina-khan18/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sakina-khan18/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/sakina-khan18/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sakina-khan18/LeetCode/tree/master/0165-compare-version-numbers) |
