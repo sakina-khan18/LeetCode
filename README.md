@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sakina-khan18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/sakina-khan18/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sakina-khan18/LeetCode/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/sakina-khan18/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/sakina-khan18/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakina-khan18/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sakina-khan18/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sakina-khan18/LeetCode/tree/master/0518-coin-change-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakina-khan18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/sakina-khan18/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/sakina-khan18/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sakina-khan18/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1249-snapshot-array](https://github.com/sakina-khan18/LeetCode/tree/master/1249-snapshot-array) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/sakina-khan18/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakina-khan18/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
 |  |
