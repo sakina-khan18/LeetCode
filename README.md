@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sakina-khan18/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1249-snapshot-array](https://github.com/sakina-khan18/LeetCode/tree/master/1249-snapshot-array) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sakina-khan18/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sakina-khan18/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/sakina-khan18/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3881-minimize-maximum-component-cost](https://github.com/sakina-khan18/LeetCode/tree/master/3881-minimize-maximum-component-cost) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/sakina-khan18/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/sakina-khan18/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sakina-khan18/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sakina-khan18/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sakina-khan18/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sakina-khan18/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sakina-khan18/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sakina-khan18/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sakina-khan18/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakina-khan18/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sakina-khan18/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sorting
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sakina-khan18/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sakina-khan18/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [3210-count-beautiful-substrings-i](https://github.com/sakina-khan18/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sakina-khan18/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Backtracking
