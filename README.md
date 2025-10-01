@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakina-khan18/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sakina-khan18/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/sakina-khan18/LeetCode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/sakina-khan18/LeetCode/tree/master/1642-water-bottles) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sakina-khan18/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3210-count-beautiful-substrings-i](https://github.com/sakina-khan18/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sakina-khan18/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/sakina-khan18/LeetCode/tree/master/1642-water-bottles) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sakina-khan18/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sakina-khan18/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sakina-khan18/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
