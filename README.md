@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sakina-khan18/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3210-count-beautiful-substrings-i](https://github.com/sakina-khan18/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3396-valid-word](https://github.com/sakina-khan18/LeetCode/tree/master/3396-valid-word) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakina-khan18/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sakina-khan18/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/sakina-khan18/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sakina-khan18/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sakina-khan18/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakina-khan18/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sakina-khan18/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sakina-khan18/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sakina-khan18/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sakina-khan18/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
